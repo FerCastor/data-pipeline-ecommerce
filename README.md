@@ -182,8 +182,8 @@ Após a extração, os dados processados e limpos são salvos em `data/processed
 ```
 online-sales-pipeline/
 │
-├── dags/               # DAGs do Airflow
-├── scripts/            # Scripts ETL em Python
+├── dags/              # DAGs do Airflow
+├── scripts/           # Scripts ETL em Python
 ├── data/              # Dados de entrada
 │   ├── raw/           # Datasets brutos (do Kaggle/API)
 │   └── processed/     # Dados limpos e transformados
