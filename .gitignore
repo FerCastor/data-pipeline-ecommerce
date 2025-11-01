@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE/editor files
+.vscode/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Config files
+*.ini
+
+# Data folders (opcional se não quiser subir dados)
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
